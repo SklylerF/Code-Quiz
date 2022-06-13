@@ -1,0 +1,10 @@
+.container  {
+  border: 20px solid darkcyan;
+  box-sizing: border-box;
+  background: wheat;
+  padding: 35px;
+  margin: 338px;
+  border-radius: 122px;
+}
+
+
