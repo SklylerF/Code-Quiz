@@ -1,10 +1,23 @@
-.container  {
-  border: 20px solid darkcyan;
+* {
+  text-align: center;
+  flex-wrap: wrap;
+}
+h1 {
+  display: list-item
+  display: inline;
+  color: ;
+  border: 4px solid darkcyan;
   box-sizing: border-box;
   background: wheat;
   padding: 35px;
   margin: 338px;
   border-radius: 122px;
+  flex-wrap: wrap;
 }
-
-
+p{
+  display: list-item;
+  flex-wrap: wrap;
+}
+.time{
+ 
+}
